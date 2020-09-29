@@ -7,7 +7,7 @@ Premium Plan – The plan where customer pays certain amount of money every mont
 
 This online retail business might have a great strategy team taking care of marketing/ selling/ business strategies and objective is to get maximum customer subscribe to premium plan
 
-This is a win- win situation for both customer and business
+This is a win- win situation for both customer and business.
 
 Method selected to do the optimization is Thompson Sampling which solves specific problem in reinforcement learning called as multi arm bandit problem. 
 
